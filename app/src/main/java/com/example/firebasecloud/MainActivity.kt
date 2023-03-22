@@ -8,7 +8,7 @@ import com.google.firebase.ktx.Firebase
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
-   
+
     //Yaseen
     val db = Firebase.firestore
     override fun onCreate(savedInstanceState: Bundle?) {
